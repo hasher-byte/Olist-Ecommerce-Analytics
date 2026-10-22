@@ -1,4 +1,4 @@
-# Olist-Ecommerce-Analytics
+# Marketplace Analytics and Insights
 
 An end-to-end E-Commerce Data Analytics project using the Brazilian Olist dataset. The project combines Python, PostgreSQL, Pandas, Matplotlib, and Seaborn to analyze sales, customers, products, sellers, delivery performance, reviews, and payment behavior.
 
@@ -79,7 +79,7 @@ The project analyzes the Olist e-commerce database to identify trends and patter
 
 ## Project Structure
 ```text
-Olist-Ecommerce-Analytics/
+Marketplace Analytics and Insights/
 │
 ├── data/
 │   ├── olist_customers_dataset.csv
